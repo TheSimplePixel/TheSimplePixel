@@ -2,7 +2,7 @@
 
 * 👋 Hi, I’m @TheSimplePixel
 * 🔍 I’m interested in Cybsersecurity & OPSEC
-* 😔 Currently working on only indepdent or private group projects, sorry!
+* 😔 Currently working on only independent or private group projects, sorry!
 * 📨 You can reach me on discord or through other platforms I'm active on.
 
 <!---
