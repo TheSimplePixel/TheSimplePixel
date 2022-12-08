@@ -12,8 +12,6 @@
 
 - 🔍 I’m interested in Cybsersecurity & OPSEC
 
-- 💬 Ask me about **Python, Lua**
-
 - 📨 You can reach me on discord or through other platforms I'm active on.
 
 <h3 align="left">Connect with me:</h3>
